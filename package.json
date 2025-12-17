@@ -1,0 +1,7 @@
+{
+  "homepage": "https://Daanishpetkar.github.io/netflix-style-portfolio",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
